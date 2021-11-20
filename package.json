@@ -1,18 +1,16 @@
 {
-  "name": "backendDev",
+  "name": "backenddev",
   "version": "1.0.0",
   "description": "",
-  "main": "Hello.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ajeetbh/backendDev.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "ajeet",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ajeetbh/backendDev/issues"
